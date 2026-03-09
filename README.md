@@ -4,8 +4,6 @@
   <a href="https://github.com/KajalMishra10"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Python+%7C+FastAPI;DSA+%26+System+Design+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
----
-
 ### About Me
 
 - Full Stack Developer with expertise in **React** and **Python/FastAPI**
@@ -40,14 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KajalMishra10&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### Connect with Me
-
-<p align="center">
-  <a href="https://github.com/KajalMishra10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 
