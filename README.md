@@ -31,17 +31,6 @@
 
 ---
 
-### Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [System_design](https://github.com/KajalMishra10/System_design) | System Design concepts and implementations | Python |
-| [expense](https://github.com/KajalMishra10/expense) | Expense tracking application | Python |
-| [weather](https://github.com/KajalMishra10/weather) | Weather application | JavaScript |
-| [sonar-logistic-model](https://github.com/KajalMishra10/sonar-logistic-model) | Logistic regression model on sonar data | Python |
-
----
-
 ### GitHub Stats
 
 <p align="center">
