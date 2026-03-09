@@ -44,18 +44,6 @@
 
 ---
 
-### DSA & Problem Solving
-
-```text
-Arrays & Strings    ████████████████████░░   85%
-Linked Lists        ███████████████████░░░   80%
-Trees & Graphs      ██████████████████░░░░   75%
-Dynamic Programming ████████████████░░░░░░   70%
-System Design       ██████████████████░░░░   75%
-```
-
----
-
 ### Connect with Me
 
 <p align="center">
@@ -64,8 +52,3 @@ System Design       ██████████████████░░
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KajalMishra10&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
