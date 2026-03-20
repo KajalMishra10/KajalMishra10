@@ -1,43 +1,55 @@
-<h1 align="center">Hi there, I'm Kajal Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">
+  Hi, I'm Kajal Mishra
+</h1>
 
 <p align="center">
-  <a href="https://github.com/KajalMishra10"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Python+%7C+FastAPI;DSA+%26+System+Design+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
+  <em>Full Stack Developer • React • Python • FastAPI</em>
 </p>
+
+<p align="center">
+  <a href="https://github.com/KajalMishra10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=400&lines=Building+scalable+web+apps;Exploring+System+Design;Practicing+DSA;Always+learning" />
+  </a>
+</p>
+
+---
 
 ### About Me
 
-- Full Stack Developer with expertise in **React** and **Python/FastAPI**
-- Passionate about **System Design** and building scalable architectures
-- Practicing **Data Structures & Algorithms** to sharpen problem-solving skills
-- Love turning ideas into real-world applications
+- Full Stack Developer focused on **React** and **Python (FastAPI)**
+- Interested in **System Design** and scalable backend systems  
+- Regularly practicing **Data Structures & Algorithms**
+- I enjoy building real-world, practical applications
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,fastapi,postgres,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,fastapi,postgres,mongodb,git,docker&theme=light" />
 </p>
 
-| Domain | Technologies |
-|--------|-------------|
-| **Frontend** | React, JavaScript, HTML5, CSS3 |
+---
+
+### Experience Areas
+
+| Area | Skills |
+|------|--------|
+| **Frontend** | React, JavaScript, HTML, CSS |
 | **Backend** | Python, FastAPI, REST APIs |
-| **Database** | PostgreSQL, MongoDB, Supabase |
-| **DevOps** | Docker, Git, GitHub |
-| **CS Fundamentals** | Data Structures & Algorithms, System Design |
+| **Database** | PostgreSQL, MongoDB |
+| **Tools** | Git, GitHub, Docker |
+| **Core CS** | DSA, System Design |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KajalMishra10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalMishra10&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KajalMishra10&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalMishra10&layout=compact&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KajalMishra10&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KajalMishra10&hide_border=true" />
 </p>
-
-
