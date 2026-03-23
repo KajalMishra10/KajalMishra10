@@ -53,3 +53,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KajalMishra10&hide_border=true" />
 </p>
+
+---
+
+### Reach Me Out
+
+<p align="center">Open to opportunities • Let’s connect 🚀</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kajal-mishra-624b36212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/_kajalmishra_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
