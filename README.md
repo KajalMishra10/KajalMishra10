@@ -19,7 +19,7 @@
 - Full Stack Developer focused on **React** and **Python (FastAPI)**
 - Interested in **System Design** and scalable backend systems  
 - Regularly practicing **Data Structures & Algorithms**
-- Exploring **Agentic AI, RAG systems, and LangChain** to build intelligent applications
+- Exploring **Agentic AI, RAG systems, LangChain and Langgraph** to build intelligent applications
 - I enjoy building real-world, practical applications
 
 ---
