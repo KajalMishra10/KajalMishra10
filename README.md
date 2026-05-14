@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Full Stack Developer • React • Python • FastAPI</em>
+  <em>Full Stack Developer • React • Python • FastAPI • C++</em>
 </p>
 
 <p align="center">
